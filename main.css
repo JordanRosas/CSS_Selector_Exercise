@@ -10,7 +10,7 @@ header{
 .disabled{
     color:grey;
 }
-a .disabled{
+a .disabled, a.disabled{
     color:purple;
 }
 .active{

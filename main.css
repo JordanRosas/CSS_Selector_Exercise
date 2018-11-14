@@ -30,7 +30,7 @@ h4 + div ~ h4{
 }
 .grandparent > h4{
     border:2px solid black;
-    border-radius:30%;
+    border-radius:15%;
 }
 .promo{
     color:gold;

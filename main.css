@@ -32,7 +32,7 @@ h4 + div ~ h4{
     border:2px solid black;
     border-radius:15%;
 }
-.promo{
+.promo, .promo > .disabled{
     color:gold;
     font-weight:bold;
 }

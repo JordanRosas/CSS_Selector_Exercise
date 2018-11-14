@@ -1,13 +1,11 @@
 header{
     border:1px goldenrod solid;
 }
-/* header > li{
+ header > nav > ul > li{
     display:inline-block;
-} */
-ul > li{
-    display:inline-block;
-    margin-right:4px;
+    margin-right:6px;
     cursor:pointer;
+
 } 
 .disabled{
     color:grey;
